@@ -1,2 +1,4 @@
 # tutorial-dasar-dasar-pemograman-php
-ikuti video tutorial ini
+Silahkan ikuti video tutorial ini:
+https://youtu.be/J9Ob3iAhQvY
+
